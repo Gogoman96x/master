@@ -1,3 +1,4 @@
+.gitignore
 .vscode/
 *Manifest.toml
 *.el
@@ -17,4 +18,4 @@ auto/
 .svn
 *admin
 *.code-workspace
-*/.DS_Store
+.DS_Store
